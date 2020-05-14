@@ -1,1 +1,1 @@
-.netCore对接金蝶K3CLoud7.2以上的版本API接口封装
+.netCore瀵规帴閲戣澏k3wise15.0浠ヤ笂鐨勭増鏈珹PI鎺ュ彛灏佽
